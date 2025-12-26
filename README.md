@@ -34,8 +34,7 @@ The core innovation lies in its dual-model approach: leveraging a highly optimiz
 
 Witness the dual power of classification and enhancement in action:
 
-![Satellite AI Dashboard Demo](https://raw.githubusercontent.com/VaibhavSharmaggwp/Satellite-AI-Classifier-Enhancer/main/assets/demo_screenshot.png)
-_Screenshot of the Streamlit dashboard classifying a 'Residential' area with 98.2% confidence and providing an AI-enhanced view._
+
 
 ## 🛠️ Tech Stack
 
