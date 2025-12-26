@@ -1,0 +1,9 @@
+# Ignore data and environment
+data/
+venv/
+__pycache__/
+*.env
+
+# Ignore large system files
+.DS_Store
+Thumbs.db
